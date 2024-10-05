@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fateme-arabzade
+- 👋 Hi, I’m Fateme Arabzade
 - 👀 I’m interested in front-end and web aplication
 - 🌱 I’m currently learning react
 - 📫 How to reach me : fa.raha5731@gmail.com 
